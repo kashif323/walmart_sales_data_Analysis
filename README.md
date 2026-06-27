@@ -56,14 +56,14 @@ This project is an end-to-end data analysis solution designed to extract critica
 ### 9. SQL Analysis: Complex Queries and Business Problem Solving
    - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
      - Find different payment method and number of transactions, number of quantity sold.
-     -  Identify the highest-rated category in each branch, displaying the branch,category average              rating.
+     -  Identify the highest-rated category in each branch, displaying the branch,category average rating.
      -  Identify the busiest day for each branch based on the number of transactions.
      - Determine the average ,minimum,and maximum rating of products for each city .
           List the city , average_rating,min_rating,and max_rating.
      - Profit margin analysis by branch and category.
      - Categorize sales into 3 groups MORNING , AFTERNOON, EVENING
 	      Find out which of the shift and number invoices.
-     -  Identify 5 branch with highest ratio in revenue comapre to last year (current year 2023 and            last year 2022).
+     -  Identify 5 branch with highest ratio in revenue comapre to last year (current year 2023 and last year 2022).
 
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
 
