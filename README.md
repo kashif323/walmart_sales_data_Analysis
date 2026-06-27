@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+# Walmart Data Analysis: End-to-End SQL + Python Project 
 
 ## Project Overview
 
@@ -97,18 +97,7 @@ This project is an end-to-end data analysis solution designed to extract critica
    ```
 3. Set up your Kaggle API, download the data, and follow the steps to load and analyze.
 
----
 
-## Project Structure
-
-```plaintext
-|-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
-|-- notebooks/                # Jupyter notebooks for Python analysis
-|-- README.md                 # Project documentation
-|-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
-```
 ---
 
 ## Results and Insights
@@ -125,11 +114,6 @@ Possible extensions to this project:
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
 
----
-
-## License
-
-This project is licensed under the MIT License. 
 
 ---
 
